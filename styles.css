@@ -1,0 +1,15 @@
+
+#Donation{
+    background: white;
+    width:100%;
+    text-align: center
+    
+
+}
+
+#bottomImage{
+    background-image: url(Footer.jpg);
+    width: 100%;
+    height: 400px;
+    
+}
