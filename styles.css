@@ -4,13 +4,11 @@ body {
   }
 
 #header  {
+  background-color: black;
   background-image: url('header.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: top;
-  width: 100%;
-  height: 400px;
-
 }
 
 #Headline {
